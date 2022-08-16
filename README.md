@@ -1,0 +1,1 @@
+# MyDictionary-App-MacOS-SwiftUI-
